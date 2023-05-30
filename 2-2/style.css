@@ -57,3 +57,13 @@ border-collapse: collapse;
   .sticky + .content {
     padding-top: 60px;
   }
+  div.text{
+    width: 49%;
+    margin: 0px;
+    float: right;
+}
+div.photo{
+  width: 49%;
+  margin: 0px;
+  float: left;
+}
