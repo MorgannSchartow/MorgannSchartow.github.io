@@ -66,3 +66,32 @@ div.photo{
   margin: 0px;
   float: left;
 }
+div.contactform{
+  float: right;
+  padding: 5%;
+  width: 40%;
+  margin: 10px;
+}
+
+div.contactform form{
+  display: flex;
+  flex-direction: column;
+  background-color: #37693b;
+  padding: 5px;
+}
+
+div.contactform h3{
+  text-align: center;
+}
+
+div.contactform input, div.contactform textarea{
+  margin: 5px;
+}
+
+div.contactform textarea{
+  height: 50px;
+}
+
+div.contactform input{
+  width: 30%;
+}
