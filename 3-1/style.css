@@ -58,6 +58,42 @@ a.sign_in{
     
 
 }
+p.sign_in{
+    
+
+    font-family: 'Roboto';
+    font-style: normal;
+    font-weight: 900;
+    font-size: 14px;
+
+    
+
+    color: #031CFF;
+    border-radius: 100px;
+    margin-top: 9px;
+    
+}
+button.sign_in{
+box-sizing: border-box;
+
+width: 103px;
+height: 36px;
+
+border: 1px solid #031CFF;
+border-radius: 100px;
+}
+p.sign_in{
+    font-family: 'Roboto';
+font-style: normal;
+font-weight: 900;
+font-size: 14px;
+line-height: 16px;
+
+text-align: center;
+
+
+color: #031CFF;
+}
 div.imageee{
     background-image: url(./images/Rectangle.png);
     width: 1360px;
