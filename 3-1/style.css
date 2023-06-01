@@ -116,8 +116,7 @@ content: '';
 }
 div.mount{
     position: absolute;
-    width: 516px;
-    height: 689px;
+    
     left: 120px;
     top: 820px;
     content: '';
@@ -127,5 +126,10 @@ img.mount{
     height: 689px;
 }
 div.dots{
-
+background-image: url(images/Union.png);
+position: absolute;
+width: 303px;
+height: 266px;
+left: 360px;
+top: 1468px;
 }
