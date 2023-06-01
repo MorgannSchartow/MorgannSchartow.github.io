@@ -1,6 +1,3 @@
-body{
-    margin: 0px;
-}
 div.everything{ 
     margin-left: 40px;
     margin-right: 40px;
@@ -16,11 +13,11 @@ margin-top: 20px ;
 width: 28px;
 height: 28px;
 }
-h1.GoFig{
+h1.site_name{
 width: 75px;
 height: 36px;
-
-padding-left: 8.4px;
+left: 127px;
+top: 34px;
 
 font-family: 'Campton';
 font-size: 25.886px;
@@ -33,176 +30,6 @@ color: #3D3D3D;
 div.logo_left{
     float: left;
     display: inline-flex;
-}
-div.logo_right{
-    float: right;
-    display: inline-flex;
-    
-}
-a.right{
-    width: fit-content;
-    height: 17px;
-    
-    font-family: 'Campton';
-    font-size: 12px;
-    line-height: 14px;
-    padding-left: 20px;
-    padding-top: 28px;
-
-    text-decoration: none;
-    
-    color: #3D3D3D;
-}
-a.sign_in{
-    padding-top: 17px;
-    padding-left: 30px;
-    
-    
-
-}
-p.sign_in{
-    
-
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 14px;
-
-    
-
-    color: #031CFF;
-    border-radius: 100px;
-    margin-top: 9px;
-    
-}
-button.sign_in{
-box-sizing: border-box;
-
-width: 103px;
-height: 36px;
-
-border: 1px solid #031CFF;
-border-radius: 100px;
-}
-p.sign_in{
-    font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 14px;
-line-height: 16px;
-
-text-align: center;
-
-
-color: #031CFF;
-}
-div.GoPlaces{
-    width: 1360px;
-    height: 616px;
-    margin-top: 99px;
-    background-image: url(../images/Rectangle.png);
-}
-h2.goPlaces{
-position: relative;
-width: 358px;
-height: 93px;
-left: 301px;
-top: 251px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 78.9191px;
-line-height: 92px;
-
-
-color: #FFFFFF;
-
-margin: 0px;
-
-}
-h3.withFigma{
-position: relative;
-width: 104px;
-height: 22px;
-left: 303px;
-top: 254px;
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
-line-height: 21px;
-
-color: #FFFFFF;
-margin: 0px;
-
-}
-
-div.line{
-    /* Line */
-
-
-position: relative;
-width: 343px;
-height: 0px;
-left: 485px;
-top: 257px;
-
-border: 1px solid #FFFFFF;
-
-}
-button.reserveNow{
-position: relative;
-width: 251px;
-height: 54px;
-left: 241px;
-top: 326px;
-
-background: #031CFF;
-border-radius: 100px;
-}
-p.reserveNow{
-    position: relative;
-
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
-line-height: 21px;
-text-align: center;
-
-
-color: #ffffff;
-
-border-radius: 100px;
-margin-top: 14px;
-}
-div.watchNow{
-    position: relative;
-    width: 251px;
-    height: 54px;
-    left: 513px;
-    top: 270px;
-
-    border: 3px solid #FFFFFF;
-    border-radius: 100px;
-   
-    }
-div.inline{
-    display: inline;
-}
-p.watchNow{
-
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 18px;
-    line-height: 21px;
-    text-align: center;
-
-    color: #FFFFFF;
-
-    border-radius: 100px;
+    width: 900px;
+    height: 400;
 }
