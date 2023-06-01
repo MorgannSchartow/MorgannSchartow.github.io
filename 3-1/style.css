@@ -42,3 +42,13 @@ div.imageee{
     top: 99px;
     content: '';
 }
+div.rec{
+    position: absolute;
+width: 420px;
+height: 747px;
+left: 980px;
+top: 99px;
+
+background: #031CFF;
+mix-blend-mode: multiply;
+}
