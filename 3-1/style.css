@@ -33,3 +33,8 @@ div.logo_left{
     width: 900px;
     height: 400;
 }
+div.imageee{
+    background-image: url(./images/Rectangle.png);
+    width: 1360px;
+    height: 616px; 
+}
