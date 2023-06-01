@@ -122,6 +122,10 @@ div.mount{
     top: 820px;
     content: '';
 }
+img.mount{
+    width: 516px;
+    height: 689px;
+}
 div.dots{
 
 }
