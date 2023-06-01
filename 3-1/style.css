@@ -40,4 +40,5 @@ div.imageee{
     position: absolute; 
     left: 40px;
     top: 99px;
+    content: '';
 }
