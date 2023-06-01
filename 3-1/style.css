@@ -37,4 +37,7 @@ div.imageee{
     background-image: url(./images/Rectangle.png);
     width: 1360px;
     height: 616px; 
+    position: absolute; 
+    left: 40px;
+    top: 99px;
 }
