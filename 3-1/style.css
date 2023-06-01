@@ -114,3 +114,31 @@ background: #031CFF;
 mix-blend-mode: multiply;
 content: '';
 }
+h2.goPlaces{
+    position: relative;
+    width: 358px;
+    height: 93px;
+    left: 301px;
+    top: 251px;
+    
+    line-height: 92px;
+    
+    
+    color: #FFFFFF;
+    
+    margin: 0px;
+    
+    }
+    h3.withFigma{
+    position: relative;
+    width: 104px;
+    height: 22px;
+    left: 303px;
+    top: 254px;
+    
+    line-height: 21px;
+    
+    color: #FFFFFF;
+    margin: 0px;
+    
+    }
