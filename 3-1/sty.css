@@ -102,6 +102,18 @@ div.GoPlaces{
     margin-top: 99px;
     background-image: url(./images/Rectangle.png);
 }
+div.rec{
+    position: absolute;
+    width: 420px;
+    height: 747px;
+    left: 980px;
+    top: 99px;
+    
+    background: #031CFF;
+    mix-blend-mode: multiply;
+    content: '';
+    }
+    
 h2.goPlaces{
 position: relative;
 width: 358px;
@@ -109,10 +121,6 @@ height: 93px;
 left: 301px;
 top: 251px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 78.9191px;
 line-height: 92px;
 
 
@@ -128,10 +136,6 @@ height: 22px;
 left: 303px;
 top: 254px;
 
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 400;
-font-size: 18px;
 line-height: 21px;
 
 color: #FFFFFF;
@@ -165,11 +169,6 @@ border-radius: 100px;
 p.reserveNow{
     position: relative;
 
-
-font-family: 'Roboto';
-font-style: normal;
-font-weight: 900;
-font-size: 18px;
 line-height: 21px;
 text-align: center;
 
@@ -195,10 +194,6 @@ div.inline{
 }
 p.watchNow{
 
-    font-family: 'Roboto';
-    font-style: normal;
-    font-weight: 900;
-    font-size: 18px;
     line-height: 21px;
     text-align: center;
 
