@@ -43,7 +43,7 @@ div.imageee{
     content: '';
 }
 div.rec{
-    position: absolute;
+position: absolute;
 width: 420px;
 height: 747px;
 left: 980px;
