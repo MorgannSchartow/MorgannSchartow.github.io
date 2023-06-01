@@ -114,3 +114,12 @@ background: #031CFF;
 mix-blend-mode: multiply;
 content: '';
 }
+div.mount{
+    background: url(images/image.png);
+    position: absolute;
+    width: 516px;
+    height: 689px;
+    left: 120px;
+    top: 820px;
+    content: '';
+}
