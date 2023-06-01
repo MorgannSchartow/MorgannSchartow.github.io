@@ -142,3 +142,61 @@ h2.goPlaces{
     margin: 0px;
     
     }
+    div.line{
+        /* Line */
+    
+    
+    position: relative;
+    width: 343px;
+    height: 0px;
+    left: 485px;
+    top: 257px;
+    
+    border: 1px solid #FFFFFF;
+    
+    }
+    button.reserveNow{
+    position: relative;
+    width: 251px;
+    height: 54px;
+    left: 241px;
+    top: 326px;
+    
+    background: #031CFF;
+    border-radius: 100px;
+    }
+    p.reserveNow{
+        position: relative;
+    
+    line-height: 21px;
+    text-align: center;
+    
+    
+    color: #ffffff;
+    
+    border-radius: 100px;
+    margin-top: 14px;
+    }
+    div.watchNow{
+        position: relative;
+        width: 251px;
+        height: 54px;
+        left: 513px;
+        top: 270px;
+    
+        border: 3px solid #FFFFFF;
+        border-radius: 100px;
+       
+        }
+    div.inline{
+        display: inline;
+    }
+    p.watchNow{
+    
+        line-height: 21px;
+        text-align: center;
+    
+        color: #FFFFFF;
+    
+        border-radius: 100px;
+    }
